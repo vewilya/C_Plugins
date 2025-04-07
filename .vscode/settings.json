@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.ksp": "c",
-        "stdlib.h": "c",
-        "stdbool.h": "c",
-        "gain.h": "c"
-    }
-}
